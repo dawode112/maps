@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/nextcloud.dawode.duckdns.org\/login"
+                 "value":"https:\/\/aggie.io\/"
                 }],
          "type":"tilelayer",
          "visible":true,
