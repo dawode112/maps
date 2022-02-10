@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/aggie.io\/"
+                 "value":"http:\/\/192.168.178.29:9000\/"
                 }],
          "type":"tilelayer",
          "visible":true,
