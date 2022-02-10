@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/app.sketchtogether.com\/s\/sketch\/4aRPw.1.1\/"
+                 "value":"https:\/\/nextcloud.dawode.duckdns.org\/"
                 }],
          "type":"tilelayer",
          "visible":true,
