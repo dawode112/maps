@@ -12,7 +12,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zoom.us\/j\/91559699150?pwd=VVY1Vk9GcjhCbnowUUlSU3RDTzZ2dz09\/"
+                 "value":"http:\/\/192.168.178.29:8443\/"
                 }],
          "type":"tilelayer",
          "visible":true,
