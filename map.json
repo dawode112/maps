@@ -135,7 +135,7 @@
                 {
                  "name":"openWebpage",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/shib1.rz.htwk-leipzig.de\/idp\/profile\/SAML2\/Redirect\/SSO?execution=e2s1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,9 +163,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebpage",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/colab.dawode.duckdns.org\/Collaborate\/"
+                 "value":"http:\/\/192.168.178.29:8510\/Collaborate\/"
                 }],
          "type":"tilelayer",
          "visible":true,
