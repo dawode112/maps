@@ -169,9 +169,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebpage",
+                 "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/shib1.rz.htwk-leipzig.de\/idp\/profile\/SAML2\/Redirect\/SSO?execution=e1s2"
+                 "value":"https:\/\/bildungsportal.sachsen.de\/opal\/home?2"
                 }],
          "type":"tilelayer",
          "visible":true,
