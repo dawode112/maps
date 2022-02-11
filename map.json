@@ -165,7 +165,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/192.168.178.29:8510\/NcMFdxc9\/?pwd=cpv9a"
+                 "value":"https:\/\/colab.dawode.duckdns.org\/NcMFdxc9\/?pwd=cpv9a"
                 }],
          "type":"tilelayer",
          "visible":true,
