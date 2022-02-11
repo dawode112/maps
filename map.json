@@ -237,7 +237,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/192.168.178.29:8443"
+                 "value":"https:\/\/code.dawode.duckdns.org"
                 }],
          "type":"tilelayer",
          "visible":true,
