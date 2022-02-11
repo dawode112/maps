@@ -16,39 +16,23 @@
          "name":"display",
          "objects":[
                 {
-                 "height":158.666666666667,
-                 "id":21,
+                 "height":159.333333333333,
+                 "id":22,
                  "name":"",
                  "properties":[
                         {
-                         "name":"allowApi",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
                          "name":"url",
                          "type":"string",
-                         "value":""
+                         "value":"https:\/\/www.youtube.com\/embed\/oPn_adlC1Q0"
                         }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
-                 "width":221.333333333333,
+                 "width":222,
                  "x":33.3333333333333,
                  "y":32
                 }],
          "opacity":1,
-         "properties":[
-                {
-                 "name":"allowApi",
-                 "type":"bool",
-                 "value":false
-                }, 
-                {
-                 "name":"openWebsite",
-                 "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/oPn_adlC1Q0"
-                }],
          "type":"objectgroup",
          "visible":true,
          "x":0,
@@ -444,7 +428,7 @@
          "y":0
         }],
  "nextlayerid":62,
- "nextobjectid":22,
+ "nextobjectid":23,
  "orientation":"orthogonal",
  "properties":[
         {
