@@ -65,7 +65,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/nextcloud.dawode.duckdns.org\/s\/zomtrkbsqdc4m3n\/handsup1.mp3"
+                 "value":"https:\/\/nextcloud.dawode.duckdns.org\/s\/zomtrkbsqdc4m3n\/download\/handsup1.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
