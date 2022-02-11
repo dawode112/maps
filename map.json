@@ -165,7 +165,7 @@
                 {
                  "name":"openWebpage",
                  "type":"string",
-                 "value":"http:\/\/192.168.178.29:8510\/Collaborate\/"
+                 "value":"https:\/\/colab.dawode.duckdns.org\/Collaborate\/"
                 }],
          "type":"tilelayer",
          "visible":true,
