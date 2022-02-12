@@ -201,7 +201,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/colab.dawode.duckdns.org\/Test\/?pwd=htwk"
+                 "value":"http:\/\/192.168.178.29:8080\/AxxE51oV\/?pwd=k54ga"
                 }],
          "type":"tilelayer",
          "visible":true,
